@@ -18,7 +18,7 @@ Follow these steps to set up HOTEL-KOSRA locally:
 
 1. **Clone the Repository**:
     ```bash
-    git clone 
+    git clone https://github.com/KavyaSingh236/HOTEL_KOSRA.git
     ```
 
 2. **Navigate to the Project Directory**:
