@@ -727,7 +727,7 @@ https://i.postimg.cc/L6YBCwVk/20230221-2357541-167.jpg
   return data.split("\n")[index];
 }
 
-const frameCount =275;
+const frameCount =320;
 
 const images = [];
 const imageSeq = {
@@ -998,7 +998,7 @@ function files(index) {
   return data.split("\n")[index];
 }
 
-const frameCount=150;
+const frameCount=95;
 
 const images = [];
 const imageSeq = {
