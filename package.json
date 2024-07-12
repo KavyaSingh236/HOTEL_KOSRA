@@ -1,5 +1,5 @@
 {
-  "name": "jit-hotel---1",
+  "name": "hotelkosra",
   "version": "1.0.0",
   "description": "",
   "main": "descrambler.js",
@@ -7,13 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Kavya Singh",
+  "author": "KAVYA SINGH",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "express-ejs-layouts": "^2.5.1",
+    "gsap": "^3.12.5",
     "html-pdf": "^3.0.1",
     "package.json": "^2.0.1",
     "pdf-lib": "^1.17.1",
